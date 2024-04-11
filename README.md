@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Advanced Algorithms and Leadership methods.
 - 📫 How to reach me: maxwats4@gmail.com
 
-- # 💫 About Me:
+# 💫 About Me:
 I am working on a JavaScript React application that helps fly fishermen find the best place to fish. <br>I am looking to collaborate on open-source projects around data manipulation and problem-solving.<br>I am currently learning machine learning with Python, JavaScript, and React.  
 
 
